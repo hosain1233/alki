@@ -6,7 +6,7 @@
 <form method="get">
     <input type="text" name="txt">
     <button>جستجو</button>
-
+سلام
 
 
 
